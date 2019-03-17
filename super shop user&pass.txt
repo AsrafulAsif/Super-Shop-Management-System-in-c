@@ -1,0 +1,2 @@
+User name=asif
+pass=123
